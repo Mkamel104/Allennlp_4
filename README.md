@@ -14,16 +14,16 @@ We will be building and training a basic character-level RNN to classify words. 
 # Results: 
 The results should looks like below after running the above command using allen nlp options.
 
-2019-04-15 22:54:22,144 - INFO - allennlp.common.util - Metrics: {
-  "training_duration": "00:00:01",
-  "training_start_epoch": 0,
-  "training_epochs": 37,
-  "epoch": 37,
-  "training_accuracy": 0.9444444444444444,
-  "training_loss": 0.47344669699668884,
-  "validation_accuracy": 0.05555555555555555,
-  "validation_loss": 6.152934551239014,
-  "best_epoch": 8,
-  "best_validation_accuracy": 0.05555555555555555,
-  "best_validation_loss": 4.326207160949707
-}
+2019-04-15 22:54:22,144 - INFO - allennlp.common.util - Metrics: {<p>
+  "training_duration": "00:00:01", <p> 
+  "training_start_epoch": 0,<p>
+  "training_epochs": 37,<p>
+  "epoch": 37,<p>
+  "training_accuracy": 0.9444444444444444,<p>
+  "training_loss": 0.47344669699668884,<p>
+  "validation_accuracy": 0.05555555555555555,<p>
+  "validation_loss": 6.152934551239014,<p>
+  "best_epoch": 8,<p>
+  "best_validation_accuracy": 0.05555555555555555,<p>
+  "best_validation_loss": 4.326207160949707<p>
+}<p>
