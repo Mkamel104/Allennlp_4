@@ -3,7 +3,7 @@ We will be building and training a basic character-level RNN to classify words. 
 
 # Run this model:
 1- To run this project you need to install allennlp using this link:  https://github.com/allenai/allennlp. 
-
+#
 2. You need to run: 
                     allennlp train name_model.json -s ./output --include-package mylib
                     
