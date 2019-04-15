@@ -9,7 +9,7 @@ We will be building and training a basic character-level RNN to classify words. 
          
 3. Using Allennlp train option you can run the project as below command:
 
-                    allennlp train name_model.json -s ./output --include-package mylib
+         allennlp train name_model.json -s ./output --include-package mylib
                     
 # Results: 
 The results should looks like below after running the above command using allen nlp options.
